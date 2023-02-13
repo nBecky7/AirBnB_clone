@@ -1,6 +1,6 @@
 0x00. AirBnB clone - The console
 
-Learning Objectives
+Learning Objectives of the project
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 General
